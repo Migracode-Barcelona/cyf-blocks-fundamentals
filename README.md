@@ -64,6 +64,6 @@ The `script.js` file contains the JavaScript code that will be invoked by your `
 5. Click in the white text area under `Static HTML`. To make sure you select all of the text press the Ctrl-A key combination on PC/ChromeBook or Cmd-A key combination on Mac (doing it this way instead of clicking and dragging helps avoid missing anything out which could be very frustrating as it may not be obvious when trying to debug it later!!). Then right-click on it and select 'Copy' as you usually would.
 6. Go back to the browser window or tab where you have GitHub open and click on `index.html` in the list of files in the repo.
 
-<img src="images/index_html.png" alt="cyf-blocks-fundamentals GitHub repo" width="50%" height="50%"/>
+<img src="images/index_html.png" alt="cyf-blocks-fundamentals GitHub repo"/>
 
 7. In the next page that appears you can see the contents of the `index.html` file. Towards the right-hand corner just above that there is a small pencil icon - click it and you will be taken to an editor where you can edit the file.
