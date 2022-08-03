@@ -29,7 +29,7 @@ First you'll need to create your own repo on GitHub, based on this template.
 
 The steps to do this are as follows:
 
-1. Sign into your GitHub account on www.github.com (if for some reason you don't yet have a GitHub account consult the syllabus at https://codeyourfuture.io/syllabus/fundamentals/preparations) if you are not already signed in.
+1. Sign into your GitHub account on www.github.com if you are not already signed in (if for some reason you don't yet have a GitHub account consult the syllabus at https://codeyourfuture.io/syllabus/fundamentals/preparations) .
 2. Go to https://github.com/CodeYourFuture/cyf-blocks-project.
 3. In the top right-hand corner you should see a green button called 'Use this template'. Click it.
 
@@ -57,7 +57,7 @@ The `script.js` file contains the JavaScript code that will be invoked by your `
 
 1. In a separate browser window or tab navigate to https://blocks.codeyourfuture.io.
 2. To select the project you want to use, click the the three lines in the top right-hand corner (this symbol is sometimes referred to as a 'hamburger' icon) to access the CYF Blocks menu.
-3. Select the Activity or Project that you want to ship to your Metlify site.
+3. Select the Activity or Project that you want to ship to Netlify.
 4. Hopefully once you have done this you will see a completed CYF Blocks activity similar to below (it will be different depending on which one you chose). If not you may still need to do the activity or select another activity that you have done. If you are stuck you can ask a volunteer to help you.
 
 
