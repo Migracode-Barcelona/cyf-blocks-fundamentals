@@ -30,14 +30,10 @@ First you'll need to create your own repo on GitHub, based on this template.
 The steps to do this are as follows:
 
 1. Sign into your GitHub account on www.github.com if you are not already signed in (if for some reason you don't yet have a GitHub account consult the syllabus at https://codeyourfuture.io/syllabus/fundamentals/preparations) .
-2. Go to https://github.com/CodeYourFuture/cyf-blocks-project.
+2. Go to https://github.com/CodeYourFuture/cyf-blocks-fundamentals.
 3. In the top right-hand corner you should see a green button called 'Use this template'. Click it.
-
-
 4. You will see a page like the one below. There is an `Owner` field which should show the same name as your GitHub account. If it says 'Select an owner' click it and then in the dropdown that appears select your GitHub user name.
-
-
-5. Select the Public option so that other people can see your repo. Enter a name for your repo - 'cyf-blocks-project-fundamentals'. If you want you can put more in the description. Please stick to that name as it helps us if we need to look at your repo and review your work.
+5. Select the Public option so that other people can see your repo. Enter a name for your repo - 'cyf-blocks-fundamentals'. If you want you can put more in the description. Please stick to that name as it helps us if we need to look at your repo and review your work.
 6. Click the 'Create repository from template' button.
 
 ***Note: Most of the time when we are coding at CodeYourFuture we will be using a tool called VS Code to write our code. However as not everyone can install that at this stage and we haven't covered how to work on your repo in it yet we will edit the code in GitHub directly.***
