@@ -53,17 +53,35 @@ The `index.html` is the HTML file that will be served as the main page of your p
 
 The `script.js` file contains the JavaScript code that will be invoked by your `index.html` file. This is where you will need to put the 'Generated Code' from your CYF Blocks project.
 
-### CYF Blocks
+### Copying your code from CYF Blocks
+
+#### Static HTML to 'index.html'
 
 1. In a separate browser window or tab navigate to https://blocks.codeyourfuture.io.
 2. To select the project you want to use, click the the three lines in the top right-hand corner (this symbol is sometimes referred to as a 'hamburger' icon) to access the CYF Blocks menu.
 3. Select the Activity or Project that you want to ship to Netlify.
 4. Hopefully once you have done this you will see a completed CYF Blocks activity similar to below (it will be different depending on which one you chose). If not you may still need to do the activity or select another activity that you have done. If you are stuck you can ask a volunteer to help you.
-
-
 5. Click in the white text area under `Static HTML`. To make sure you select all of the text press the Ctrl-A key combination on PC/ChromeBook or Cmd-A key combination on Mac (doing it this way instead of clicking and dragging helps avoid missing anything out which could be very frustrating as it may not be obvious when trying to debug it later!!). Then right-click on it and select 'Copy' as you usually would.
 6. Go back to the browser window or tab where you have GitHub open and click on `index.html` in the list of files in the repo.
-
-<img src="images/index_html.png" alt="cyf-blocks-fundamentals GitHub repo"/>
-
 7. In the next page that appears you can see the contents of the `index.html` file. Towards the right-hand corner just above that there is a small pencil icon - click it and you will be taken to an editor where you can edit the file.
+8. You will see a space below 'My CYF Blocks Project' that has been left for you to paste your static HTML code into. Paste your code into here by clicking in the space and then right-clicking and selecting 'Paste' or pressing 'Ctrl/Cmd-V'.
+9. Once you have done this you will need to *commit* your changes to the repository (this is a very important git concept that will be covered in detail in the software development course). Underneath the code editor you will see a 'Commit changes' section. In the top field of this add a name for the commit - e.g. "add CYF Blocks HTML" and then a brief description. You can then click the green 'Commit changes' button and this will add the changes to the repository.
+10.
+
+#### Generated Code to 'script.js'
+
+The steps below are the same as above but for the `script.js` file.
+
+1. Go to the window or tab where you have CYF Blocks open and select the 'Generated Code' section.
+2. Click in the 'Generated Code' section then do 'Ctrl/Cmd-A' to select all of the text. Right-click and select 'Copy'.
+3. Go to your GitHub window and select 'cyf-blocks-fundamentals' at the top to go back to the root of your repo, then click on 'script.js'. Then once click the pencil icon to edit the file and paste the code you have copied into the editor.
+4. As before commit the changes with an appropriate name and description.
+
+### Deploying to Netlify
+
+You should now be ready to deploy your project to Netlify!!
+
+You can do this by following the steps here: https://syllabus.codeyourfuture.io/workshops/deployment/workshop/instructions
+
+Note that with this template the files for your web page are located in the root of the repo so there is no need to do anything special like change the base directory setting. Netlify will be able to find the files automatically.
+
