@@ -22,7 +22,7 @@ You do not need any special software on your computer or device to use this repo
 
 This GitHub repository is what's known as a template repository. It's a special type of repository ('repo') which you can use to create your own repo with the same basic structure but that can then be modified to suit your needs.
 
-It is a good idea to have two browser windows or browser tabs open, one for GitHub and one for CYF Blocks, as you'll be copying and pasting bits of code from CYF Blocks into GitHub. You definitely don't want to be opening and closing the pages every time as you'll get lost and have to find things again!! You might aLso want to keep these instructions open in a third so you can refer back to them easily.
+It is a good idea to have two browser windows or browser tabs open, one for GitHub and one for CYF Blocks, as you'll be copying and pasting bits of code from CYF Blocks into GitHub. You definitely don't want to be opening and closing the pages every time as you'll get lost and have to find things again!! You might also want to keep these instructions open in a third so you can refer back to them easily.
 ### Create your own repo
 
 First you'll need to create your own repo on GitHub, based on this template.
