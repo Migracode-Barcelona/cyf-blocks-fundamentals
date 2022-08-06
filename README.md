@@ -4,7 +4,7 @@
 
 This is a very basic template for a CYF Blocks project so that you can host it on Netlify as part of the "Ship It!" portion of the CodeYourFuture Fundamentals course.
 
-With it you will take a project you created on CYF Blocks, convert it into a simple static HTML web page stored on GitHub and then publish that web page online using Netlify.
+With it you will take a project you created on CYF Blocks, convert it into a simple HTML web page stored on GitHub and then publish that web page online using Netlify.
 
 ### Why do I need this?
 
