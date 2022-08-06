@@ -69,7 +69,7 @@ The steps below are the same as above but for the `script.js` file.
 
 1. Go to the window or tab where you have CYF Blocks open and select the 'Generated Code' section.
 2. Click in the 'Generated Code' section then do 'Ctrl/Cmd-A' to select all of the text. Right-click and select 'Copy'.
-3. Go to your GitHub window and select 'cyf-blocks-fundamentals' at the top to go back to the root of your repo, then click on 'script.js'. Then once click the pencil icon to edit the file and paste the code you have copied into the editor.
+3. Go to your GitHub window and select 'cyf-blocks-fundamentals' at the top to go back to the root of your repo, then click on 'script.js'. Then once again click the pencil icon to edit the file and paste the code you have copied into the editor.
 4. As before commit the changes with an appropriate name and description.
 
 ### Deploying to Netlify
