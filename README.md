@@ -61,7 +61,7 @@ The `script.js` file contains the JavaScript code that will be invoked by your `
 6. Go back to the browser window or tab where you have GitHub open and click on `index.html` in the list of files in the repo.
 7. In the next page that appears you can see the contents of the `index.html` file. Towards the right-hand corner just above that there is a small pencil icon - click it and you will be taken to an editor where you can edit the file.
 8. You will see a space below 'My CYF Blocks Project' that has been left for you to paste your static HTML code into. Paste your code into here by clicking in the space and then right-clicking and selecting 'Paste' or pressing `Ctrl/Cmd-V`.
-9. Once you have done this you will need to *commit* your changes to the repository (this is a very important git concept that will be covered in detail in the software development course). Underneath the code editor you will see a 'Commit changes' section. In the top field of this add a name for the commit - e.g. "add CYF Blocks HTML" and then a brief description. You can then click the green 'Commit changes' button and this will add the changes to the repository.
+9. Once you have done this you will need to *commit* your changes to the repository (this is a very important git concept that will be covered in detail in the software development course). Underneath the code editor you will see a 'Commit changes' section. In the top field of this add a name for the commit - e.g. "add CYF Blocks HTML" and then in the one below a brief description of your changes. You can then click the green 'Commit changes' button and this will add the changes to the repository.
 
 #### 'Generated Code' to 'script.js'
 
