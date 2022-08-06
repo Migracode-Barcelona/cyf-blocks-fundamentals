@@ -40,7 +40,7 @@ The steps to do this are as follows:
 
 #### Repo contents
 
-The repo contains two files that you will be editing in order to incorporate your CYF Blocks project and create something you can ship to Netlify. You do not need to touch any other files in the repository as those are for the CYF documentation. This is just for information - we will come back to edit these once we have opened CYF.
+The repo contains two files that you will be editing in order to incorporate your CYF Blocks project and create something you can ship to Netlify. You do not need to touch any other files in the repository as those are for the CYF documentation. 
 ##### 'index.html'
 
 The `index.html` is the HTML file that will be served as the main page of your project. This is where you will need to put the 'Static HTML' code from your CYF Blocks project.
