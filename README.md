@@ -56,7 +56,7 @@ The `script.js` file contains the JavaScript code that will be invoked by your `
 1. In a separate browser window or tab navigate to https://blocks.codeyourfuture.io.
 2. To select the project you want to use, click the the three lines in the top right-hand corner (this symbol is sometimes referred to as a 'hamburger' icon) to access the CYF Blocks menu.
 3. Select the Activity or Project that you want to ship to Netlify.
-4. Hopefully once you have done this you will see a completed CYF Blocks activity similar to below (it will be different depending on which one you chose). If not you may still need to do the activity or select another activity that you have done. If you are stuck you can ask a volunteer to help you.
+4. Hopefully once you have done this you will see a completed CYF Blocks activity. If not you may still need to do the activity or select another activity that you have done. If you are stuck you can ask a volunteer to help you.
 5. Click in the white text area under 'Static HTML;. To make sure you select all of the text press the `Ctrl-A` key combination on PC/ChromeBook or `Cmd-A` key combination on Mac (doing it this way instead of clicking and dragging helps avoid missing anything out which could be very frustrating as it may not be obvious when trying to debug it later!!). Then right-click on it and select 'Copy' as you usually would.
 6. Go back to the browser window or tab where you have GitHub open and click on `index.html` in the list of files in the repo.
 7. In the next page that appears you can see the contents of the `index.html` file. Towards the right-hand corner just above that there is a small pencil icon - click it and you will be taken to an editor where you can edit the file.
